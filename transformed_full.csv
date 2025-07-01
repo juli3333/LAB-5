@@ -1,0 +1,51 @@
+CustomerName,Product,Quantity,Price,TotalPrice,Date,Category,total_price,PriceCategory
+Alice,Laptop,3,350,1050,2024-01-29,Electronics,1050,Very High
+Bob,Laptop,5,189,945,2024-03-16,Electronics,945,High
+Diana,Laptop,1,195,195,2024-01-28,Electronics,195,Medium
+Bob,Laptop,5,303,1515,2024-04-01,Electronics,1515,Very High
+Diana,Phone,4,703,2812,2024-02-05,Electronics,2812,Very High
+Alice,Phone,4,448,1792,2024-02-05,Electronics,1792,Very High
+Bob,Phone,3,204,612,2024-01-12,Electronics,612,High
+Diana,Laptop,3,967,2901,2024-02-14,Electronics,2901,Very High
+Charlie,Laptop,4,649,2596,2024-01-16,Electronics,2596,Very High
+Diana,Laptop,5,400,2000,2024-03-21,Electronics,2000,Very High
+Charlie,Phone,1,146,146,2024-03-25,Electronics,146,Medium
+Bob,Tablet,1,975,975,2024-01-30,Electronics,975,High
+Alice,Monitor,3,564,1692,2024-03-22,Accessories,1692,Very High
+Charlie,Phone,3,463,1389,2024-01-27,Electronics,1389,Very High
+Charlie,Laptop,5,750,3750,2024-01-22,Electronics,3750,Very High
+Bob,Phone,4,488,1952,2024-02-04,Electronics,1952,Very High
+Bob,Tablet,1,334,334,2024-01-05,Electronics,334,Medium
+Charlie,Monitor,3,167,501,2024-01-28,Accessories,501,High
+Charlie,Phone,4,505,2020,2024-03-23,Electronics,2020,Very High
+Diana,Phone,3,242,726,2024-02-01,Electronics,726,High
+Charlie,Monitor,5,508,2540,2024-02-16,Accessories,2540,Very High
+Bob,Phone,5,605,3025,2024-01-12,Electronics,3025,Very High
+Alice,Laptop,2,742,1484,2024-01-21,Electronics,1484,Very High
+Diana,Laptop,4,490,1960,2024-03-17,Electronics,1960,Very High
+Diana,Tablet,5,981,4905,2024-01-02,Electronics,4905,Very High
+Alice,Tablet,3,214,642,2024-02-07,Electronics,642,High
+Diana,Phone,4,103,412,2024-04-02,Electronics,412,Medium
+Charlie,Phone,5,208,1040,2024-03-21,Electronics,1040,Very High
+Charlie,Phone,2,482,964,2024-04-07,Electronics,964,High
+Bob,Laptop,5,431,2155,2024-03-03,Electronics,2155,Very High
+Alice,Laptop,3,999,2997,2024-02-09,Electronics,2997,Very High
+Bob,Laptop,2,999,1998,2024-03-13,Electronics,1998,Very High
+Alice,Laptop,4,935,3740,2024-01-09,Electronics,3740,Very High
+Bob,Phone,4,662,2648,2024-01-22,Electronics,2648,Very High
+Charlie,Monitor,2,652,1304,2024-04-06,Accessories,1304,Very High
+Bob,Tablet,4,787,3148,2024-03-24,Electronics,3148,Very High
+Charlie,Monitor,5,562,2810,2024-01-16,Accessories,2810,Very High
+Bob,Phone,1,446,446,2024-01-03,Electronics,446,Medium
+Bob,Phone,1,172,172,2024-03-31,Electronics,172,Medium
+Alice,Phone,1,132,132,2024-02-12,Electronics,132,Medium
+Alice,Phone,3,785,2355,2024-03-03,Electronics,2355,Very High
+Bob,Phone,5,690,3450,2024-03-01,Electronics,3450,Very High
+Bob,Monitor,4,294,1176,2024-01-13,Accessories,1176,Very High
+Alice,Monitor,3,533,1599,2024-02-22,Accessories,1599,Very High
+Diana,Laptop,1,162,162,2024-02-21,Electronics,162,Medium
+Charlie,Laptop,2,296,592,2024-01-25,Electronics,592,High
+Diana,Phone,4,287,1148,2024-02-05,Electronics,1148,Very High
+Diana,Phone,1,553,553,2024-03-11,Electronics,553,High
+Alice,Laptop,5,956,4780,2024-01-02,Electronics,4780,Very High
+Alice,Phone,2,516,1032,2024-03-03,Electronics,1032,Very High

@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.log
+*.sqlite
+last_extraction.txt
+
+*.db
+*.parquet
+loaded_data/

@@ -1,0 +1,21 @@
+CustomerName,Product,Quantity,Price,TotalPrice,Date,Category,PriceCategory
+Alice,Laptop,3,999,2997,2024-09-02,Electronics,Very High
+Bob,Laptop,2,999,1998,,Electronics,Very High
+Alice,Laptop,4,935,3740,2024-09-01,Electronics,Very High
+Bob,Phone,4,662,2648,,Electronics,Very High
+Charlie,Monitor,2,652,1304,2024-06-04,Accessories,Very High
+Bob,Tablet,4,787,3148,,Electronics,Very High
+Charlie,Monitor,5,562,2810,,Accessories,Very High
+Bob,Phone,1,446,446,2024-03-01,Electronics,Medium
+Bob,Phone,1,172,172,,Electronics,Medium
+Alice,Phone,1,132,132,2024-12-02,Electronics,Medium
+Alice,Phone,3,785,2355,2024-03-03,Electronics,Very High
+Bob,Phone,5,690,3450,2024-01-03,Electronics,Very High
+Bob,Monitor,4,294,1176,,Accessories,Very High
+Alice,Monitor,3,533,1599,,Accessories,Very High
+Diana,Laptop,1,162,162,,Electronics,Medium
+Charlie,Laptop,2,296,592,,Electronics,High
+Diana,Phone,4,287,1148,2024-05-02,Electronics,Very High
+Diana,Phone,1,553,553,2024-11-03,Electronics,High
+Alice,Laptop,5,956,4780,2024-02-01,Electronics,Very High
+Alice,Phone,2,516,1032,2024-03-03,Electronics,Very High
